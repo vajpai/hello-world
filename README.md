@@ -1,2 +1,2 @@
 # hello-world
-sample repository
+sample repository and updated the readme text
